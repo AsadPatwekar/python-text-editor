@@ -5,7 +5,7 @@ import pyperclip
 from tkinter.font import Font
 from tkinter.messagebox import *
 root = Tk()
-root.title('Untitled - CometCode')
+root.title('Untitled - Text Editor')
 root.geometry('700x700')
 root.config(bg="#373737")
 text = Text(root)
